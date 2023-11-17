@@ -3,4 +3,4 @@ This is a basic java project using selenium.\
 Contents:\
 --multiple windows handling\
 --action class\
---get web page detail\
+--get web page detail
