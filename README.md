@@ -1,5 +1,6 @@
-# Let-Me-Reintroduce\
-Basic selenium java project.\
---containing multiple windows handling\
+Let-Me-Reintroduce\
+This is a basic java project using selenium.\
+Contents:\
+--multiple windows handling\
 --action class\
 --get web page detail\
